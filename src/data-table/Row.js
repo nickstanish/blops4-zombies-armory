@@ -10,7 +10,7 @@ const formatWallText = (value) => {
 };
 
 const TYPES_SINGULAR = {
-  'Assault Rifles': 'Assualt Rifle',
+  'Assault Rifles': 'Assault Rifle',
   'LMGs': 'LMG',
   'Secondaries': 'Secondary',
   'Sniper Rifles': 'Sniper Rifle',
