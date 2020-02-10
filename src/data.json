@@ -1,0 +1,488 @@
+{
+  "guns": [
+    {
+      "name": "ICR-7",
+      "levels": 15,
+      "unlock_level": 5,
+      "type": "Assault Rifles",
+      "wall": true,
+      "starter": false,
+      "attachments": []
+    },
+    {
+      "name": "MADDOX RFB",
+      "levels": 16,
+      "unlock_level": 13,
+      "type": "Assault Rifles",
+      "wall": true,
+      "starter": false,
+      "attachments": []
+    },
+    {
+      "name": "KN-57",
+      "levels": 16,
+      "unlock_level": 21,
+      "type": "Assault Rifles",
+      "wall": true,
+      "starter": false,
+      "attachments": []
+    },
+    {
+      "name": "HITCHCOCK M9",
+      "levels": 16,
+      "unlock_level": 29,
+      "type": "Assault Rifles",
+      "wall": false,
+      "starter": false,
+      "attachments": []
+    },
+    {
+      "name": "RAMPART 17",
+      "levels": 16,
+      "unlock_level": 48,
+      "type": "Assault Rifles",
+      "wall": false,
+      "starter": false,
+      "attachments": []
+    },
+    {
+      "name": "VAPR-XKG",
+      "levels": 15,
+      "unlock_level": 53,
+      "type": "Assault Rifles",
+      "wall": true,
+      "starter": false,
+      "attachments": []
+    },
+    {
+      "name": "ESCARGOT",
+      "levels": 16,
+      "unlock_level": 12,
+      "type": "Submachine Guns",
+      "wall": true,
+      "starter": false,
+      "attachments": []
+    },
+    {
+      "name": "MX9",
+      "levels": 15,
+      "unlock_level": 25,
+      "type": "Submachine Guns",
+      "wall": "IX",
+      "starter": false,
+      "attachments": []
+    },
+    {
+      "name": "SPITFIRE",
+      "levels": 16,
+      "unlock_level": 32,
+      "type": "Submachine Guns",
+      "wall": true,
+      "starter": false,
+      "attachments": []
+    },
+    {
+      "name": "SAUG 9MM",
+      "levels": 16,
+      "unlock_level": 44,
+      "type": "Submachine Guns",
+      "wall": true,
+      "starter": true,
+      "attachments": []
+    },
+    {
+      "name": "GKS",
+      "levels": 15,
+      "unlock_level": 45,
+      "type": "Submachine Guns",
+      "wall": true,
+      "starter": false,
+      "attachments": []
+    },
+    {
+      "name": "CORDITE",
+      "levels": 16,
+      "unlock_level": 49,
+      "type": "Submachine Guns",
+      "wall": false,
+      "starter": false,
+      "attachments": []
+    },
+    {
+      "name": "M1927",
+      "levels": 16,
+      "unlock_level": 1,
+      "type": "Submachine Guns",
+      "wall": "Blood of the Dead",
+      "starter": false,
+      "attachments": []
+    },
+    {
+      "name": "SWORDFISH",
+      "levels": 17,
+      "unlock_level": 4,
+      "wall": true,
+      "starter": false,
+      "attachments": [],
+      "type": "Tactical Rifles"
+    },
+    {
+      "name": "ESSEX MODEL 87",
+      "levels": 17,
+      "unlock_level": 16,
+      "wall": true,
+      "starter": true,
+      "attachments": [],
+      "type": "Tactical Rifles"
+    },
+    {
+      "name": "ABR 23",
+      "levels": 17,
+      "unlock_level": 37,
+      "wall": false,
+      "starter": false,
+      "attachments": [],
+      "type": "Tactical Rifles"
+    },
+    {
+      "name": "AUGER DMR",
+      "levels": 17,
+      "unlock_level": 52,
+      "wall": true,
+      "starter": false,
+      "attachments": [],
+      "type": "Tactical Rifles"
+    },
+    {
+      "name": "TITAN",
+      "levels": 16,
+      "unlock_level": 9,
+      "type": "LMGs",
+      "wall": true,
+      "starter": false,
+      "attachments": []
+    },
+    {
+      "name": "HADES",
+      "levels": 17,
+      "unlock_level": 28,
+      "type": "LMGs",
+      "wall": false,
+      "starter": false,
+      "attachments": []
+    },
+    {
+      "name": "VKM 750",
+      "levels": 16,
+      "unlock_level": 40,
+      "type": "LMGs",
+      "wall": false,
+      "starter": false,
+      "attachments": []
+    },
+    {
+      "name": "ZWEIHANDER",
+      "levels": 17,
+      "unlock_level": 55,
+      "type": "LMGs",
+      "wall": false
+    },
+    {
+      "name": "SDM",
+      "levels": 16,
+      "unlock_level": 17,
+      "type": "Sniper Rifles",
+      "wall": false,
+      "starter": false,
+      "attachments": []
+    },
+    {
+      "name": "PALADIN HB50",
+      "levels": 16,
+      "unlock_level": 33,
+      "type": "Sniper Rifles",
+      "wall": false,
+      "starter": false,
+      "attachments": []
+    },
+    {
+      "name": "KOSHKA",
+      "levels": 16,
+      "unlock_level": 51,
+      "type": "Sniper Rifles",
+      "wall": false,
+      "starter": false,
+      "attachments": []
+    },
+    {
+      "name": "OUTLAW",
+      "levels": 17,
+      "unlock_level": 54,
+      "type": "Sniper Rifles",
+      "wall": false,
+      "starter": false,
+      "attachments": []
+    },
+    {
+      "name": "BOWIE KNIFE",
+      "levels": 0,
+      "unlock_level": 1,
+      "type": "Secondaries",
+      "wall": true,
+      "starter": false,
+      "attachments": []
+    },
+    {
+      "name": "WELLING",
+      "levels": 13,
+      "unlock_level": 1,
+      "type": "Secondaries",
+      "wall": true,
+      "starter": true,
+      "attachments": []
+    },
+    {
+      "name": "MOZU",
+      "levels": 13,
+      "unlock_level": 8,
+      "type": "Secondaries",
+      "wall": true,
+      "starter": false,
+      "attachments": []
+    },
+    {
+      "name": "M1897 TREBUCHET",
+      "levels": 13,
+      "unlock_level": 20,
+      "type": "Secondaries",
+      "wall": true,
+      "starter": false,
+      "attachments": []
+    },
+    {
+      "name": "STRIFE",
+      "levels": 13,
+      "unlock_level": 24,
+      "type": "Secondaries",
+      "wall": true,
+      "starter": true,
+      "attachments": []
+    },
+    {
+      "name": "RK 7 GARRISON",
+      "levels": 13,
+      "unlock_level": 36,
+      "type": "Secondaries",
+      "wall": true,
+      "starter": true,
+      "attachments": []
+    },
+    {
+      "name": "SG12",
+      "levels": 13,
+      "unlock_level": 41,
+      "type": "Secondaries",
+      "wall": false,
+      "starter": false,
+      "attachments": []
+    },
+    {
+      "name": "HELLION SALVO",
+      "levels": 7,
+      "unlock_level": 47,
+      "type": "Secondaries",
+      "wall": false,
+      "starter": false,
+      "attachments": []
+    },
+    {
+      "name": "MOG 12",
+      "levels": 13,
+      "unlock_level": 50,
+      "type": "Secondaries",
+      "wall": true,
+      "starter": true,
+      "attachments": []
+    },
+    {
+      "name": "GRAV",
+      "type": "Assault Rifles",
+      "unlock_level": 1,
+      "levels": 16,
+      "wall": false,
+      "starter": false,
+      "attachments": []
+    },
+    {
+      "name": "MP40",
+      "type": "Submachine Guns",
+      "unlock_level": 1,
+      "levels": 16,
+      "wall": false,
+      "starter": false,
+      "attachments": []
+    },
+    {
+      "name": "PEACEKEEPER",
+      "type": "Assault Rifles",
+      "unlock_level": "DLC RESERVE CRATE",
+      "levels": 15,
+      "wall": false,
+      "starter": false,
+      "attachments": []
+    },
+    {
+      "name": "SWAT-RFT",
+      "type": "Assault Rifles",
+      "unlock_level": "DLC RESERVE CRATE",
+      "levels": 15,
+      "wall": false,
+      "starter": false,
+      "attachments": []
+    },
+    {
+      "name": "ECHOHAWK DUAL BORE",
+      "type": "Assault Rifles",
+      "unlock_level": "DLC RESERVE CRATE",
+      "levels": 16,
+      "wall": false,
+      "starter": false,
+      "attachments": []
+    },
+    {
+      "name": "AN-94",
+      "type": "Assault Rifles",
+      "unlock_level": "DLC RESERVE CRATE",
+      "levels": 15,
+      "wall": false,
+      "starter": false,
+      "attachments": []
+    },
+    {
+      "name": "DAEMON 3XB",
+      "type": "Submachine Guns",
+      "unlock_level": "DLC RESERVE CRATE",
+      "levels": 16,
+      "wall": false,
+      "starter": false,
+      "attachments": []
+    },
+    {
+      "name": "SWITCHBLADE X9",
+      "type": "Submachine Guns",
+      "unlock_level": "DLC RESERVE CRATE",
+      "levels": 16,
+      "wall": false,
+      "starter": false,
+      "attachments": []
+    },
+    {
+      "name": "VMP",
+      "type": "Submachine Guns",
+      "unlock_level": "DLC RESERVE CRATE",
+      "levels": 15,
+      "wall": false,
+      "starter": false,
+      "attachments": []
+    },
+    {
+      "name": "M16",
+      "type": "Tactical Rifles",
+      "unlock_level": "DLC RESERVE CRATE",
+      "levels": 15,
+      "wall": false,
+      "starter": false,
+      "attachments": []
+    },
+    {
+      "name": "S6 STINGRAY",
+      "type": "Tactical Rifles",
+      "unlock_level": "DLC RESERVE CRATE",
+      "levels": 17,
+      "wall": false,
+      "starter": false,
+      "attachments": []
+    },
+    {
+      "name": "TIGERSHARK",
+      "type": "LMGs",
+      "unlock_level": "DLC RESERVE CRATE",
+      "levels": 17,
+      "wall": false,
+      "starter": false,
+      "attachments": []
+    },
+    {
+      "name": "HAVELINA AA50",
+      "type": "Sniper Rifles",
+      "unlock_level": "DLC RESERVE CRATE",
+      "levels": 14,
+      "wall": false,
+      "starter": false,
+      "attachments": []
+    },
+    {
+      "name": "LOCUS",
+      "type": "Sniper Rifles",
+      "unlock_level": "DLC RESERVE CRATE",
+      "levels": 16,
+      "wall": false,
+      "starter": false,
+      "attachments": []
+    },
+    {
+      "name": "VENDETTA",
+      "type": "Sniper Rifles",
+      "unlock_level": "DLC RESERVE CRATE",
+      "levels": 16,
+      "wall": false,
+      "starter": false,
+      "attachments": []
+    },
+    {
+      "name": "ARGUS",
+      "type": "Secondaries",
+      "unlock_level": "DLC RESERVE CRATE",
+      "levels": 13,
+      "wall": false,
+      "starter": false,
+      "attachments": []
+    },
+    {
+      "name": "KAP 45",
+      "type": "Secondaries",
+      "unlock_level": "DLC RESERVE CRATE",
+      "levels": 13,
+      "wall": false,
+      "starter": false,
+      "attachments": []
+    },
+    {
+      "name": "RAMPAGE",
+      "type": "Secondaries",
+      "unlock_level": "DLC RESERVE CRATE",
+      "levels": 13,
+      "wall": false,
+      "starter": false,
+      "attachments": []
+    },
+    {
+      "name": "BALLISTIC KNIFE",
+      "type": "Secondaries",
+      "unlock_level": "DLC RESERVE CRATE",
+      "levels": 7,
+      "wall": false,
+      "starter": false,
+      "attachments": []
+    },
+    {
+      "name": "REAVER C86",
+      "type": "Secondaries",
+      "unlock_level": "DLC RESERVE CRATE",
+      "levels": 7,
+      "wall": false,
+      "starter": false,
+      "attachments": []
+    }
+  ]
+}
