@@ -30,17 +30,30 @@ a:focus {
   color: #289ccb;
 }
 
+.App {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
 .App-header {
   box-shadow: 2px 2px 6px 4px rgba(0,0,0,0.2);
   padding: 4px 12px;
   font-weight: 600;
+  background: rgb(229,127,45);
+  /* https://cssgradient.io/ */
+  background: linear-gradient(170deg, rgba(229,127,45,1) 0%, rgba(193,106,37,1) 58%, rgba(105,60,24,1) 100%);
+  color: #363636;
+  padding: 6px 12px;
 }
 
 .App-main {
-  max-width: 800px;
+  max-width: 600px;
+  width: 90%;
   margin: 0 auto;
   font-size: 16px;
   padding: 12px;
+  flex: 1 1 0;
 }
 
 .App-footer {

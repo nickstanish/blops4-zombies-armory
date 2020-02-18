@@ -1,6 +1,6 @@
 import React from 'react';
 import { kebabCase } from 'lodash-es';
-import './Row.css'
+import styles from './Row.module.css'
 
 const formatWallText = (value) => {
   if (typeof value === 'string') {
@@ -28,9 +28,9 @@ const formatType = (value) => {
 export const Row = (props) => {
   const id = kebabCase(props.data.name);
   return (
-    <div id={ id } className="Row">
+    <div id={id} className={styles.Row}>
       <div>
-        <a href={ `#${id}` } className="Row-anchor">
+        <a href={ `#${id}` }>
           <strong>{ props.data.name }</strong>
         </a>
       </div>

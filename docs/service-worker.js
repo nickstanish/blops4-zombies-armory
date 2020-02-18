@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/blops4-zombies-armory/precache-manifest.21f3c2d0085038dd8eb60694fe16d4c5.js"
+  "/blops4-zombies-armory/precache-manifest.27a2497a57293a6943a03847cd060b80.js"
 );
 
 self.addEventListener('message', (event) => {

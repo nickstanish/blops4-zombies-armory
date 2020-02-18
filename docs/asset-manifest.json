@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/blops4-zombies-armory/static/css/main.ada259cc.chunk.css",
-    "main.js": "/blops4-zombies-armory/static/js/main.c944af80.chunk.js",
-    "main.js.map": "/blops4-zombies-armory/static/js/main.c944af80.chunk.js.map",
+    "main.css": "/blops4-zombies-armory/static/css/main.376eefac.chunk.css",
+    "main.js": "/blops4-zombies-armory/static/js/main.849f436e.chunk.js",
+    "main.js.map": "/blops4-zombies-armory/static/js/main.849f436e.chunk.js.map",
     "runtime-main.js": "/blops4-zombies-armory/static/js/runtime-main.02f3d9ad.js",
     "runtime-main.js.map": "/blops4-zombies-armory/static/js/runtime-main.02f3d9ad.js.map",
-    "static/js/2.207f5b0a.chunk.js": "/blops4-zombies-armory/static/js/2.207f5b0a.chunk.js",
-    "static/js/2.207f5b0a.chunk.js.map": "/blops4-zombies-armory/static/js/2.207f5b0a.chunk.js.map",
+    "static/js/2.6ce0669c.chunk.js": "/blops4-zombies-armory/static/js/2.6ce0669c.chunk.js",
+    "static/js/2.6ce0669c.chunk.js.map": "/blops4-zombies-armory/static/js/2.6ce0669c.chunk.js.map",
     "index.html": "/blops4-zombies-armory/index.html",
-    "precache-manifest.21f3c2d0085038dd8eb60694fe16d4c5.js": "/blops4-zombies-armory/precache-manifest.21f3c2d0085038dd8eb60694fe16d4c5.js",
+    "precache-manifest.27a2497a57293a6943a03847cd060b80.js": "/blops4-zombies-armory/precache-manifest.27a2497a57293a6943a03847cd060b80.js",
     "service-worker.js": "/blops4-zombies-armory/service-worker.js",
-    "static/css/main.ada259cc.chunk.css.map": "/blops4-zombies-armory/static/css/main.ada259cc.chunk.css.map",
-    "static/js/2.207f5b0a.chunk.js.LICENSE.txt": "/blops4-zombies-armory/static/js/2.207f5b0a.chunk.js.LICENSE.txt"
+    "static/css/main.376eefac.chunk.css.map": "/blops4-zombies-armory/static/css/main.376eefac.chunk.css.map",
+    "static/js/2.6ce0669c.chunk.js.LICENSE.txt": "/blops4-zombies-armory/static/js/2.6ce0669c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.02f3d9ad.js",
-    "static/js/2.207f5b0a.chunk.js",
-    "static/css/main.ada259cc.chunk.css",
-    "static/js/main.c944af80.chunk.js"
+    "static/js/2.6ce0669c.chunk.js",
+    "static/css/main.376eefac.chunk.css",
+    "static/js/main.849f436e.chunk.js"
   ]
 }

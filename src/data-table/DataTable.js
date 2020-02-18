@@ -1,8 +1,13 @@
 import React from 'react';
 import Row from './Row';
+import TextField from './TextField';
 
 const filterCategory = (item, filterValue) => {
   return item.type === filterValue;
+};
+
+const filterName = (item, filterValue) => {
+  return item.name.toLowerCase().includes(filterValue.toLowerCase());
 };
 
 const CATEGORY_OPTIONS = [
@@ -16,6 +21,11 @@ const CATEGORY_OPTIONS = [
 
 export const DataTable = (props) => {
   const [category, setCategory] = React.useState('');
+  const [search, setSearch] = React.useState('');
+
+  const onSearchChange = (event) => {
+    setSearch(event.target.value);
+  };
 
   const onSelectCategory = (event) => {
     setCategory(event.target.value);
@@ -30,10 +40,27 @@ export const DataTable = (props) => {
       return true
     }
     return filterCategory(item, category);
+  }).filter((item) => {
+    if (search === '') {
+      return true
+    }
+    return filterName(item, search);
   });
 
   return (
     <div>
+      <div>
+        <TextField
+          onClear={() => setSearch('')}
+          inputProps={{
+            type: 'text',
+            name: 'search',
+            placeholder: 'Search',
+            value: search,
+            onChange: onSearchChange
+          }}
+        />
+      </div>
       <div className="DataTable-filters">
         <select onChange={ onSelectCategory } value={ category}>
           <option value="">All Categories</option>
