@@ -1,0 +1,30 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders component 1`] = `
+<div>
+  <div
+    class="App"
+  >
+    <header
+      class="App-header"
+    >
+      CoD Black Ops 4 Zombies Armory
+    </header>
+    <main
+      class="App-main"
+    >
+      DataTable
+    </main>
+    <footer
+      class="App-footer"
+    >
+      Corrections? Open an Issue on 
+      <a
+        href="https://github.com/nickstanish/blops4-zombies-armory"
+      >
+        GitHub
+      </a>
+    </footer>
+  </div>
+</div>
+`;
